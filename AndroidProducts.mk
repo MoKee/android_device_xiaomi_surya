@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_surya.mk
+    $(LOCAL_DIR)/mokee_surya.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_surya-user \
-    lineage_surya-userdebug \
-    lineage_surya-eng
+    mokee_surya-user \
+    mokee_surya-userdebug \
+    mokee_surya-eng
